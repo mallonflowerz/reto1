@@ -7,6 +7,6 @@ Ademas de que en el archivo "conversor.dart" se encuentra toda la logica y funci
 
 En la carpeta "Video" se encuentran dos videos donde se prueba la app y se demuestra que funciona correctamente.
 
-# PD:
+### PD:
 Este proyecto fue elaborador por Marlon Caleb Florez Duarte y Jhoiner Ballesteros Quiceno.
 Los demas mienbros del grupo no se reportaron ni participaron en esta solucion del reto
