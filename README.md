@@ -1,6 +1,6 @@
-# convertir_monedas
+# Reto 1 - Conversion de monedas
 
-A new Flutter project.
+El archivo Main.dart es el archivo principal para ejecutar el proyecto
 
 ## Getting Started
 
