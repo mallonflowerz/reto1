@@ -1,4 +1,5 @@
 # Reto 1 - Conversion de monedas
+Equipo 5 - NCR2290
 
 El archivo "main.dart" es el archivo principal para ejecutar el proyecto, esta dentro de la carpeta "lib".
 Ademas de que en el archivo "conversor.dart" se encuentra toda la logica y funcionalidad de la app.
