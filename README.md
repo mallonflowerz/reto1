@@ -7,7 +7,7 @@ Ademas de que en el archivo "conversor.dart" se encuentra toda la logica y funci
 
 En la carpeta "Video" se encuentran dos videos donde se prueba la app y se demuestra que funciona correctamente.
 
-![Imagen de referencia App](https://raw.githubusercontent.com/mallonflowerz/reto1/master/video/app.png)
+![Imagen de referencia App](https://raw.githubusercontent.com/mallonflowerz/reto1/master/video/app.PNG)
 
 
 ### Nota:
